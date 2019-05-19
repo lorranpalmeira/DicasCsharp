@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\bin\Debug\netcoreapp2.2\ListaVsIEnumerable.deps.json
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\bin\Debug\netcoreapp2.2\ListaVsIEnumerable.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\bin\Debug\netcoreapp2.2\ListaVsIEnumerable.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\bin\Debug\netcoreapp2.2\ListaVsIEnumerable.dll
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\bin\Debug\netcoreapp2.2\ListaVsIEnumerable.pdb
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\obj\Debug\netcoreapp2.2\ListaVsIEnumerable.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\obj\Debug\netcoreapp2.2\ListaVsIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\obj\Debug\netcoreapp2.2\ListaVsIEnumerable.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\obj\Debug\netcoreapp2.2\ListaVsIEnumerable.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\obj\Debug\netcoreapp2.2\ListaVsIEnumerable.dll
+C:\Users\lalvespa\RiderProjects\ListaVsIEnumerable\ListaVsIEnumerable\obj\Debug\netcoreapp2.2\ListaVsIEnumerable.pdb
