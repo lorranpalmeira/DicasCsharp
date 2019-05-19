@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\bin\Debug\netcoreapp2.2\GenericTypesDicas.deps.json
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\bin\Debug\netcoreapp2.2\GenericTypesDicas.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\bin\Debug\netcoreapp2.2\GenericTypesDicas.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\bin\Debug\netcoreapp2.2\GenericTypesDicas.dll
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\bin\Debug\netcoreapp2.2\GenericTypesDicas.pdb
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\obj\Debug\netcoreapp2.2\GenericTypesDicas.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\obj\Debug\netcoreapp2.2\GenericTypesDicas.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\obj\Debug\netcoreapp2.2\GenericTypesDicas.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\obj\Debug\netcoreapp2.2\GenericTypesDicas.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\obj\Debug\netcoreapp2.2\GenericTypesDicas.dll
+C:\Users\lalvespa\RiderProjects\GenericTypesDicas\obj\Debug\netcoreapp2.2\GenericTypesDicas.pdb
