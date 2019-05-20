@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\bin\Debug\netcoreapp2.2\csharp_yield.deps.json
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\bin\Debug\netcoreapp2.2\csharp_yield.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\bin\Debug\netcoreapp2.2\csharp_yield.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\bin\Debug\netcoreapp2.2\csharp_yield.dll
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\bin\Debug\netcoreapp2.2\csharp_yield.pdb
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\obj\Debug\netcoreapp2.2\csharp_yield.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\obj\Debug\netcoreapp2.2\csharp_yield.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\obj\Debug\netcoreapp2.2\csharp_yield.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\obj\Debug\netcoreapp2.2\csharp_yield.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\obj\Debug\netcoreapp2.2\csharp_yield.dll
+C:\Users\lalvespa\RiderProjects\csharp_yield\csharp_yield\obj\Debug\netcoreapp2.2\csharp_yield.pdb
