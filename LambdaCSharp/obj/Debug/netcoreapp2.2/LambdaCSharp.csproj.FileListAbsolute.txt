@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\obj\Debug\netcoreapp2.2\LambdaCSharp.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\obj\Debug\netcoreapp2.2\LambdaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\obj\Debug\netcoreapp2.2\LambdaCSharp.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\obj\Debug\netcoreapp2.2\LambdaCSharp.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\bin\Debug\netcoreapp2.2\LambdaCSharp.deps.json
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\bin\Debug\netcoreapp2.2\LambdaCSharp.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\bin\Debug\netcoreapp2.2\LambdaCSharp.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\bin\Debug\netcoreapp2.2\LambdaCSharp.dll
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\bin\Debug\netcoreapp2.2\LambdaCSharp.pdb
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\obj\Debug\netcoreapp2.2\LambdaCSharp.dll
+C:\Users\lalvespa\RiderProjects\LambdaCSharp\obj\Debug\netcoreapp2.2\LambdaCSharp.pdb

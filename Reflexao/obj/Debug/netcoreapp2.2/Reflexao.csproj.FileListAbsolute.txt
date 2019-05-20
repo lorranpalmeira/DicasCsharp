@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\Reflexao\bin\Debug\netcoreapp2.2\Reflexao.deps.json
+C:\Users\lalvespa\RiderProjects\Reflexao\bin\Debug\netcoreapp2.2\Reflexao.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\Reflexao\bin\Debug\netcoreapp2.2\Reflexao.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\Reflexao\bin\Debug\netcoreapp2.2\Reflexao.dll
+C:\Users\lalvespa\RiderProjects\Reflexao\bin\Debug\netcoreapp2.2\Reflexao.pdb
+C:\Users\lalvespa\RiderProjects\Reflexao\obj\Debug\netcoreapp2.2\Reflexao.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\Reflexao\obj\Debug\netcoreapp2.2\Reflexao.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\Reflexao\obj\Debug\netcoreapp2.2\Reflexao.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\Reflexao\obj\Debug\netcoreapp2.2\Reflexao.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\Reflexao\obj\Debug\netcoreapp2.2\Reflexao.dll
+C:\Users\lalvespa\RiderProjects\Reflexao\obj\Debug\netcoreapp2.2\Reflexao.pdb

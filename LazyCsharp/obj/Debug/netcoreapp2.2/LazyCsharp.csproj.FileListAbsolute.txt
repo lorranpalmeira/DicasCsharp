@@ -1,0 +1,11 @@
+C:\Users\lalvespa\RiderProjects\LazyCsharp\bin\Debug\netcoreapp2.2\LazyCsharp.deps.json
+C:\Users\lalvespa\RiderProjects\LazyCsharp\bin\Debug\netcoreapp2.2\LazyCsharp.runtimeconfig.json
+C:\Users\lalvespa\RiderProjects\LazyCsharp\bin\Debug\netcoreapp2.2\LazyCsharp.runtimeconfig.dev.json
+C:\Users\lalvespa\RiderProjects\LazyCsharp\bin\Debug\netcoreapp2.2\LazyCsharp.dll
+C:\Users\lalvespa\RiderProjects\LazyCsharp\bin\Debug\netcoreapp2.2\LazyCsharp.pdb
+C:\Users\lalvespa\RiderProjects\LazyCsharp\obj\Debug\netcoreapp2.2\LazyCsharp.csprojAssemblyReference.cache
+C:\Users\lalvespa\RiderProjects\LazyCsharp\obj\Debug\netcoreapp2.2\LazyCsharp.csproj.CoreCompileInputs.cache
+C:\Users\lalvespa\RiderProjects\LazyCsharp\obj\Debug\netcoreapp2.2\LazyCsharp.AssemblyInfoInputs.cache
+C:\Users\lalvespa\RiderProjects\LazyCsharp\obj\Debug\netcoreapp2.2\LazyCsharp.AssemblyInfo.cs
+C:\Users\lalvespa\RiderProjects\LazyCsharp\obj\Debug\netcoreapp2.2\LazyCsharp.dll
+C:\Users\lalvespa\RiderProjects\LazyCsharp\obj\Debug\netcoreapp2.2\LazyCsharp.pdb
